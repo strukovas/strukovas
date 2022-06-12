@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+
+![a](https://gist.githubusercontent.com/strukovas/6d8425eba72fc5f036b7941e3a559267/raw/0f16441e8b9a67ea768454380e595eda054cc0cf/duck.gif)
 
 <!--
 **strukovas/strukovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
